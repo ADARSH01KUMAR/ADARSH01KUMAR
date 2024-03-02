@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ADARSH KUMAR</h1>
-<h3 align="center">A passionate Frontend developer & Content Writer from India</h3>
+<h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
+<h3 align="center">A Passionate Frontend developer & Content Writer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=um19N%2foe&id=161DB8D0372DD5857E3C37410C425D8A0AEFF2B8&thid=OIP.um19N_oeTKlmrHMov0O5bAHaEH&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fba6d7d37fa1e4ca966ac7328bf43b96c%2ftenor.gif%3fitemid%3d18657810&exph=277&expw=498&q=animated+coding+images&simid=608014408833117996&FORM=IRPRST&ck=219EA18847FB37C4EF2063F77A20B9F2&selectedIndex=3&itb=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh01kumar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh01kumar" /> </p>
 

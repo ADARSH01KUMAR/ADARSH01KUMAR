@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/006/362/890/non_2x/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/006/362/890/non_2x/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A Passionate Frontend developer & Content Writer</h3>
 

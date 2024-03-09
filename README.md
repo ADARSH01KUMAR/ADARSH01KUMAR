@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshk10969236" target="blank"><img src="https://img.shields.io/twitter/follow/adarshk10969236?logo=twitter&style=for-the-badge" alt="adarshk10969236" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Frontend and Content writing**
 
